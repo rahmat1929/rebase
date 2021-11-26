@@ -2,7 +2,7 @@ abcd
 acd
 abcd
 
-rahmat input 1
+imam init 1
 
 rahmat input 2
 
