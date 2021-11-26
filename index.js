@@ -12,6 +12,8 @@ funciton 1
 
 function 2
 
+function 3
+
 test
 
 abcd abcd
