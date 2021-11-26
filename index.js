@@ -29,4 +29,4 @@ s
 u
 
 
-peler
+peler kuda
