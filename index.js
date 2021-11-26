@@ -8,6 +8,8 @@ rahmat input 2
 
 rahmat input 3
 
+funciton 2
+
 test
 
-abcd abcd 
+abcd abcd
