@@ -29,3 +29,5 @@ s
 u
 
 a & jing
+
+peler kuda
