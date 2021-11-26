@@ -14,7 +14,9 @@ function 2
 
 function 3
 
-function 4`
+function 4
+
+fciuntion 5`
 
 test
 
